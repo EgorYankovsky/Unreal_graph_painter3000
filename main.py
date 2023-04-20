@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np 
 
 # Количество графиков на одно полотно
 n = 3
